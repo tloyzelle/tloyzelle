@@ -1,7 +1,10 @@
-### My name is Taegan Loyzelle
+## My name is Taegan Loyzelle
 
-##Certificates
-#UNCC Full Stack Web Development
+## Certificates
+* UNCC Full Stack Web Development
+
+## Skills I have learned
+* Throughout my class from UNCC I have learned the basics to HTML CSS and Javascript. API's, node.js, express.js, Handlebars, MySQL, and MongoDB are just a few of the different softwares I am beginning to use within my websites.
 
 <!--
 **tloyzelle/tloyzelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
