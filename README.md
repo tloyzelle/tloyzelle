@@ -1,4 +1,7 @@
-### Hi there 👋
+### My name is Taegan Loyzelle
+
+##Certificates
+#UNCC Full Stack Web Development
 
 <!--
 **tloyzelle/tloyzelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
