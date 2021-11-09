@@ -6,6 +6,9 @@
 ## Skills I have learned
 * Throughout my class from UNCC I have learned the basics to HTML CSS and Javascript. API's, node.js, express.js, Handlebars, MySQL, and MongoDB are just a few of the different softwares I am beginning to use within my websites.
 
+## View my Portfolio
+* https://tloyzelle.github.io/Taegan-Loyzelle-Portfolio/#work
+
 <!--
 **tloyzelle/tloyzelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
